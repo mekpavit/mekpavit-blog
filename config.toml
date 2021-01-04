@@ -1,4 +1,4 @@
-baseURL = "https://mekpavit.netlify.app"
+baseURL = "https://mekpavit.netlify.app/"
 languageCode = "en-us"
 title = "Mek's Software Development Blog"
 theme = "ezhil"
