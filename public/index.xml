@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0700</lastBuildDate><atom:link href="https://mekpavit.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>If you use &#39;len(s)&#39; to check a string&#39;s length, YOU&#39;RE DOING IT WRONG!!</title>
-      <link>https://mekpavit.netlify.app/posts/my-post/</link>
+      <link>https://mekpavit.netlify.app/posts/use-rune-count-in-string-not-len/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0700</pubDate>
       
-      <guid>https://mekpavit.netlify.app/posts/my-post/</guid>
+      <guid>https://mekpavit.netlify.app/posts/use-rune-count-in-string-not-len/</guid>
       <description>Maybe len(s) doesn&amp;rsquo;t work as you expect. If you use it to determine the length of the string, you must read this post!</description>
     </item>
     

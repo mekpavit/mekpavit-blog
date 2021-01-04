@@ -5,9 +5,12 @@ date = 2021-01-03T00:00:00+07:00
 draft = false
 +++
 
+Maybe `len(s)` doesn't work as you expect. If you use it to determine the length of the string, you must read this post!
+
+
 ## One-line Summary {#one-line-summary}
 
-Use `utf8.RuneCountInString(s)` instead when you want to count the number of characters in `s` because `len(s)` counts the number of bytes not the number of characters in `s`.
+Use `utf8.RuneCountInString(s)` instead when you want to count the number of characters in `s`.
 
 
 ## What happens if I use `len(s)` {#what-happens-if-i-use-len--s}
